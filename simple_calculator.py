@@ -1,3 +1,8 @@
+'''
+This is a simple calculator.
+Handles the most basic calculation, not intended to be very robust yet.
+'''
+
 from tkinter import *
 
 root = Tk()
